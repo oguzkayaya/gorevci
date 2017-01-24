@@ -1,0 +1,3 @@
+# README
+
+Gorev yönetici uygulamasý
